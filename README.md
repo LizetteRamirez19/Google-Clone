@@ -1,5 +1,5 @@
 # Clonación de la Interfaz de Google creado con HTML y CSS3 en el bootcamp de TecnolochicasPro
-######  💫Creando con HTML5 y CSS en el bootcamp de Tecnolochicas💫
+######  💫Creado con HTML5 y CSS en el bootcamp de Tecnolochicas💫
 
 ## ÍNDICE
 * [INTRO](https://github.com/LizetteRamirez19/Google-Clone/blob/main/README.md#intro)
