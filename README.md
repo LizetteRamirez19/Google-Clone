@@ -21,13 +21,12 @@ En este proyecto, se utilizo HTML y CSS para construir una clonación de la inte
 El proyecto está enfocado en la construcción de la interfaz de Google, tomando especial atención a su UI/UX para replicar su comportamiento y estilo al 100%. La interfaz se encuentra dividida en las siguientes secciones:
 
 * Header: Sección donde se encuentra la navegación principal de Google, como la foto de perfil del usuari@, íconos y menú.
+![Header](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/b8392473-7d11-4d5f-99a1-12d1d3e0b6e7)
 
 * Main: Sección del contenedor para los elementos centrales y más importantes de la interfaz: logo, barra de búsqueda, íconos y botones
+![Main](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/61f08c37-ced9-4fcf-b7f7-4c66fd7efa8f)
 
 * Footer: Sección que contiene información extra para el usuari@, así como el hipervínculos al final de la página
-
-![Header](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/b8392473-7d11-4d5f-99a1-12d1d3e0b6e7)
-![Main](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/61f08c37-ced9-4fcf-b7f7-4c66fd7efa8f)
 ![Footer](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/9577dd09-0447-4938-a916-a6a493318172)
 
 ***
