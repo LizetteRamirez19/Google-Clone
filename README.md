@@ -13,6 +13,7 @@ https://github.com/LizetteRamirez19/Google-Clone/blob/main/README.md#objetivo-de
 HTML o HyperText Markup Language, es el componente básico de la web y junto con CSS3, se crean páginas web que usamos todos los dias en el navegador. Definimos el significado, la estructura y estilo del contenido web a tráves de estas tecnologícas.
 En este proyecto, se utilizo HTML y CSS para construir una clonación de la interfaz de Google.
 ![HTML5](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/dce6f42a-7425-4e9f-9ac5-b868895868e1) ![CSS3](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/b8b82a14-9e44-4a93-88c1-c827191e1ca5)
+![HTML5](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/97f7f411-910f-4da6-9403-e78ef759fc3a)
 
 ***
 ## 👷‍♀️¿QUÉ CONSTRUÍ?
