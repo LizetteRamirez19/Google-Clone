@@ -28,7 +28,7 @@ El proyecto está enfocado en la construcción de la interfaz de Google, tomando
 
 ![Main](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/61f08c37-ced9-4fcf-b7f7-4c66fd7efa8f)
 
-* #### Footer: Sección que contiene información extra para el usuari@, así como el hipervínculos al final de la página
+* #### Footer: Sección que contiene información extra para el usuari@, así como los hipervínculos al final de la página
 
 ![Footer](https://github.com/LizetteRamirez19/Google-Clone/assets/131729881/9577dd09-0447-4938-a916-a6a493318172)
 
